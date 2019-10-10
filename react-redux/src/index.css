@@ -5,12 +5,7 @@ body {
   font-family: 'Play', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-image: url('./photos/markus-spiske-BfphcCvhl6E-unsplash.jpg'); */
-  background-color: rgba(54, 69, 79, 0.3);
-  /* background-blend-mode: lighten; */
-  /* background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat; */
+  background-color: rgba(221, 221, 221, 0.8);
   height: 100%;
   max-width: 100%;
 }

@@ -2,10 +2,11 @@ import React from 'react';
 import styled from 'styled-components';
 
 const StyledDiv = styled.div`
-    border: 1px solid black;
+    border-bottom: 1px solid blue;
     display: flex;
     justify-content: space-evenly;
-
+    margin: 10px 0;
+    background-color: rgba(255, 65, 54, 0.8);
 `;
 
 const Styledh3 = styled.h3`;
