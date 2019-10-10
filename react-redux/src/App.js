@@ -5,7 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Ball Don't Lie!</h1>
+     <h1>Former and Current NBA Players</h1>
+     <p>Data Provided by: balldontlie API</p>
      <NbaPlayers />
     </div>
   );

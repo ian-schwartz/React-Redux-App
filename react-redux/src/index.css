@@ -1,10 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Play&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: 'Play', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('./photos/markus-spiske-BfphcCvhl6E-unsplash.jpg'); */
+  background-color: rgba(54, 69, 79, 0.3);
+  /* background-blend-mode: lighten; */
+  /* background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat; */
+  height: 100%;
+  max-width: 100%;
 }
 
 code {
